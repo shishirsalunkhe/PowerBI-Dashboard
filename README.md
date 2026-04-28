@@ -52,10 +52,6 @@ PowerBI-Dashboard/
 
 <img src="Images/hypersales.png" alt="Hyper Sales Dashboard" width="700"/>
 
-🔹 Cars Dashboard
-
-<img src="Images/cars.png" alt="Cars Dashboard" width="700"/>
-
 🔹 Department Dashboard
 
 <img src="Images/departments.png" alt="Department Dashboard" width="700"/>
